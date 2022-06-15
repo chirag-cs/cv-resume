@@ -90,7 +90,7 @@ p {
   right: 30%;
 }
 
-/* Features Section */
+/* experience Section */
 
 #exp {
   position: relative;
@@ -114,7 +114,7 @@ p {
   color: #ff4c68;
 }
 
-/* Testimonial Section */
+/* Project Section */
 
 #projects{
   background-color: #8f8f8f;
@@ -158,7 +158,7 @@ p {
   padding: 3% 2%;
 }
 
-/* CTA Section */
+/* skill Section */
 
 .myskills{
   color:black;
